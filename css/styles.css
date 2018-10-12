@@ -36,6 +36,10 @@ h4 {
   border: 10px solid #FFF0F5;
 }
 
+.photo {
+  box-shadow: none;
+}
+
 .panel-about {
   border-radius: 5px;
   background-color: #FFF0F5;
