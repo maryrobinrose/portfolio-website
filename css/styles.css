@@ -2,6 +2,11 @@ body {
   font-family: monospace;
 }
 
+#header2 {
+  letter-spacing: 20px;
+  text-transform: uppercase;
+}
+
 h3 {
   font-size: 48px;
 }
