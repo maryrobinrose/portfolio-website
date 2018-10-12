@@ -2,6 +2,10 @@ body {
   font-family: monospace;
 }
 
+h3 {
+  font-size: 48px;
+}
+
 .jumbotron {
   text-align: center;
   background-color: #FFB6C1;
@@ -32,7 +36,7 @@ body {
 
 .sidebar {
   height: auto;
-  width: 100px;
+  width: 200px;
   text-align: left;
   float: right;
   margin: 20px;
