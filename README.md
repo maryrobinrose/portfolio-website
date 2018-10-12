@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a simple website to display my personal portfolio at the end of my first week at Epicodus_
+_This is a simple website to display my personal portfolio of work at Epicodus_
 
 ## Setup And Installation
 
