@@ -30,7 +30,9 @@ body {
 }
 
 .sidebar {
-  text-align: center;
+  height: auto;
+  width: 100px;
+  text-align: left;
   float: right;
   margin: 20px;
   border: 2px solid pink;
