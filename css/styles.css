@@ -21,6 +21,10 @@ body {
   margin-bottom: 50px;
 }
 
+.hobbies {
+  list-style-position: inside;
+}
+
 .sidebar {
   text-align: center;
   float: right;
