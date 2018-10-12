@@ -67,7 +67,7 @@ h4 {
 }
 
 .well {
-  float: right;
+  float:right;
   border-radius: 5px;
   width: 20%;
   text-align: left;
@@ -76,6 +76,11 @@ h4 {
   background-color: #DB7093;
   color: white;
 
+}
+
+.sidebar, .well {
+  float: right;
+  clear: right;
 }
 
 .bottom {
