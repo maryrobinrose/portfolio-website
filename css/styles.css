@@ -33,6 +33,7 @@ h4 {
   border-radius: 5px;
   text-align: center;
   width: 400px;
+  border: 10px solid #FFF0F5;
 }
 
 .panel-about {
