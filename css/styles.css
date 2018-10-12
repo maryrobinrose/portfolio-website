@@ -1,3 +1,7 @@
+body {
+  font-family: monospace;
+}
+
 .special {
   color: #FF1493
 }
@@ -10,4 +14,8 @@
 .panel-about {
   background-color: #FFB6C1;
   margin-bottom: 50px;
+}
+
+.hobbies {
+
 }
