@@ -26,11 +26,14 @@ h3 {
   background-color: #FFF0F5;
   margin-bottom: 50px;
   margin-top: 100px;
+  padding: inherit;
 }
 
 .panel-hobbies {
+  border-radius: 5px;
   list-style-position: inside;
-  
+  background-color: #FFF0F5;
+  padding: inherit;
 }
 
 .projects {
