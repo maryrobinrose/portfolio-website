@@ -4,6 +4,7 @@ body {
 
 .jumbotron {
   text-align: center;
+  background-color: #FFB6C1;
 }
 
 .special {
@@ -16,10 +17,14 @@ body {
 }
 
 .panel-about {
-  background-color: #FFB6C1;
+  background-color: #FFF0F5;
   margin-bottom: 50px;
 }
 
-.hobbies {
-
+.sidebar {
+  text-align: center;
+  float: right;
+  margin: 20px;
+  border: 2px solid pink;
+  padding: 4px:
 }
