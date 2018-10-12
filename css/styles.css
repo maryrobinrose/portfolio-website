@@ -1,8 +1,13 @@
 .special {
-  color: salmon
+  color: #FF1493
 }
 
 .photo img {
   text-align: center;
   width: 400px;
+}
+
+.panel-about {
+  background-color: #FFB6C1;
+  margin-bottom: 50px;
 }
