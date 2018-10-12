@@ -27,6 +27,7 @@ body {
 
 .projects {
   float: left;
+  padding-bottom: 100px;
 }
 
 .sidebar {
