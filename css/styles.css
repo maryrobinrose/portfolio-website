@@ -52,7 +52,6 @@ h4 {
 .projects {
   float: left;
   width: 80%;
-  padding-bottom: 100px;
 }
 
 .sidebar {
@@ -89,6 +88,7 @@ h4 {
 
 .bottom {
   border-radius: 5px;
+  margin-top: 50px;
   position:static;
     left: 0;
     bottom: 0;
