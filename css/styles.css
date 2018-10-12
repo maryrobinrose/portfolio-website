@@ -30,6 +30,7 @@ h3 {
 
 .panel-hobbies {
   list-style-position: inside;
+  
 }
 
 .projects {
@@ -39,6 +40,7 @@ h3 {
 }
 
 .sidebar {
+  border-radius: 5px;
   height: auto;
   width: 20%;
   text-align: left;
