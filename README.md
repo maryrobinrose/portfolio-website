@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a simple website to display my personal portfolio of work at Epicodus_
+_This is a simple website to display my personal portfolio of work at Epicodus. It can be viewed online here: https://maryrobinrose.github.io/portfolio-website/_
 
 ## Setup And Installation
 
